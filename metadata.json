@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Studio",
+  "description": "High-fidelity digital design and engineering for forward-thinking brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
